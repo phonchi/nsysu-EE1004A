@@ -10,10 +10,3 @@ hide_from_announcments: true
 2. Topic 2
 3. Topic 3
 --->
-
----
-type: exam
-date: 2022-01-17
-description: 'Final'
-hide_from_announcments: true
----
