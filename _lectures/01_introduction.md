@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-28
+date: 2021-09-27
 title: Introduction
 tldr: 
 thumbnail: 
@@ -12,5 +12,4 @@ links:
       name: lab
 ---
 **Suggested Readings:**
-- ISLR Chapter 1
-- PSDS Chapter 1
+- Pre-calculus
