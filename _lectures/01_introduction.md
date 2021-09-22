@@ -1,15 +1,16 @@
 ---
 type: lecture
 date: 2021-09-27
-title: Introduction
+title: Introduction, Limits and Their Properties
 tldr: 
 thumbnail: 
 hide_from_announcments: true
 links: 
     - url: /static_files/presentations/lec.zip
-      name: slides
+      name: introduction slides
     - url: /static_files/presentations/code.zip
-      name: lab
+      name: chapter 1 slides
 ---
 **Suggested Readings:**
 - Pre-calculus
+- Chapter 1
