@@ -8,4 +8,4 @@ permalink: /materials/
 
 ## Book
 
-* [Calculus, 11th Ed (Metric Version)](https://www.larsoncalculus.com/calc11/)
+* [Calculus, 11th Ed (Metric Version)](https://www.cengage.co.uk/books/9781337616195/)
