@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Join to our [Facebook Group](https://groups.google.com/forum/#!forum/gp-id) to discuss about courses and get timely notification.
+Join to our [Facebook Group](https://www.facebook.com/groups/314913597074836) to discuss about courses and get timely notification.
