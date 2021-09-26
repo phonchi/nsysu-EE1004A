@@ -13,7 +13,7 @@ links:
 
 ---
 **Suggested Readings:**
-- [chapter P slides (courtesy of professor Chien-Hong Cho)](/static_files/presentations/Ch0_Slidehandout.pdf)
+- [[chapter P slides (courtesy of professor Chien-Hong Cho)]](/nsysu-EE1003A/static_files/presentations/Ch0_Slidehandout.pdf)
 - Chapter P
 - Chapter 1
-- [chapter 1 summary slides (courtesy of professor Fu-Chuen Chang)](/static_files/presentations/Chap01_Summary.pdf)
+- [[chapter 1 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap01_Summary.pdf)
