@@ -21,3 +21,6 @@ permalink: /materials/
 * [微積分(顏國勇老師)](http://www.math.ncku.edu.tw/~library/e-book/Calculus2014.pdf)
 * [微積分(朱樺老師)](http://www.math.ntu.edu.tw/~hchu/Calculus/)
 
+## Blogs
+* [3blue1brown](https://www.3blue1brown.com/topics/calculus)
+* [微積分福音](http://calcgospel.in/)
