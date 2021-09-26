@@ -6,11 +6,11 @@ tldr:
 thumbnail: 
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
+    - url: /static_files/presentations/01_Introduction.pdf
       name: introduction slides
-    - url: /static_files/presentations/code.zip
+    - url: /static_files/presentations/Calculus_Chapter1.pdf
       name: chapter 1 slides
 ---
 **Suggested Readings:**
-- Pre-calculus
+- Chapter P
 - Chapter 1
