@@ -10,12 +10,11 @@ links:
       name: introduction slides
     - url: /static_files/presentations/Calculus_Chapter1.pdf
       name: chapter 1 slides
-    - url https://www.youtube.com/watch?v=NfAoSCAgWAI
-      name: video
-
+      
 ---
 **Suggested Readings:**
 - [[chapter P slides (courtesy of professor Chien-Hong Cho)]](/nsysu-EE1003A/static_files/presentations/Ch0_Slidehandout.pdf)
 - Chapter P
 - Chapter 1
 - [[chapter 1 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap01_Summary.pdf)
+- [[Recorded video]](https://www.youtube.com/watch?v=NfAoSCAgWAI)
