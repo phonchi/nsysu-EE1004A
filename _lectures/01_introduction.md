@@ -10,6 +10,8 @@ links:
       name: introduction slides
     - url: /static_files/presentations/Calculus_Chapter1.pdf
       name: chapter 1 slides
+    - url https://www.youtube.com/watch?v=NfAoSCAgWAI
+      name: video
 
 ---
 **Suggested Readings:**
