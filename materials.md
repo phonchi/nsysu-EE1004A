@@ -20,6 +20,7 @@ permalink: /materials/
 * [微積分總棟員](https://sites.google.com/site/calculusteaching/home/calculus?authuser=0)
 * [微積分(顏國勇老師)](http://www.math.ncku.edu.tw/~library/e-book/Calculus2014.pdf)
 * [微積分(朱樺老師)](http://www.math.ntu.edu.tw/~hchu/Calculus/)
+* [微積分(李國偉老師)](http://www.math.ncue.edu.tw/~kwlee/107CalculusStewart8E.html)
 
 ## Blogs
 * [3blue1brown](https://www.3blue1brown.com/topics/calculus)
