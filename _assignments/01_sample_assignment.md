@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2021-09-27T4:00:00+4:30
+date: 2021-09-27T18:00:00+3:30
 title: 'Assignment #1'
 attachment: /static_files/assignments/HW1.zip
 <!---solutions: /static_files/assignments/asg_solutions.pdf--->
