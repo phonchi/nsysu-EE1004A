@@ -8,6 +8,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/Calculus_Chapter2.pdf
       name: chapter2 slides
+    - url: /static_files/presentations/Chap02_Summary.pdf
+      name: chapter2 summary
 ---
 **Suggested Readings:**
-- Chapter 2
+- Chapter 2.1~2.3
