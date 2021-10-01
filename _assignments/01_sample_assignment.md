@@ -9,5 +9,5 @@ due_event:
     date: 2021-10-04T23:59:00+3:30
     description: 'Assignment #1 due'
 ---
-This is a HW1.
+This is HW1.
 
