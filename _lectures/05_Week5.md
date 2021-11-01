@@ -13,3 +13,4 @@ links:
 **Suggested Readings:**
 - Chapter 4.1~4.3
 - [[chapter 4 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap04_Summary.pdf)
+- [[Recorded video]](https://www.youtube.com/watch?v=bnWoIPXJn0Y)
