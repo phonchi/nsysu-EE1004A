@@ -7,7 +7,7 @@ attachment: /static_files/assignments/HW4.zip
 due_event: 
     type: due
     date: 2021-11-01T23:59:00+3:30
-    description: 'Assignment #3 due'
+    description: 'Assignment #4 due'
 ---
 This is HW4.
 
