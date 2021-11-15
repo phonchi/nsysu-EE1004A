@@ -5,7 +5,8 @@ title: Review
 tldr: 
 thumbnail: 
 hide_from_announcments: true
-
+    - url: /static_files/presentations/Quiz1_Sol_Explain.pdf
+      name: Quiz Solution
 
 ---
 **Suggested Readings:**
