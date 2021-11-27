@@ -12,4 +12,4 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 5.1~5.3
-- [[chapter 4 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap05_Summary.pdf)
+- [[chapter 5 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap05_Summary.pdf)
