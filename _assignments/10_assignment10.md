@@ -10,4 +10,3 @@ due_event:
     description: 'Assignment #10 due'
 ---
 This is HW10.
-
