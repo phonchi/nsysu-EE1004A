@@ -7,4 +7,4 @@ Join our [Facebook Group](https://www.facebook.com/groups/314913597074836) to di
 
 Office hour: Mon. 16:10-18:10 and Wed. 16:10-18:10 at 理SC 2002-4
 
-TA hour: Thur. 16:10-18:00 at 理SC 1011-2
+TA hour: Thur. 15:00-17:00 at 理SC 1011-2
