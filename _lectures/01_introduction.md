@@ -14,4 +14,4 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 9
-- [[chapter 9 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1003A/static_files/presentations/Chap09_Summary.pdf)
+- [[chapter 9 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1004A/static_files/presentations/Chap09_Summary.pdf)
