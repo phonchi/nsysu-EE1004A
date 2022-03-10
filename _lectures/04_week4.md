@@ -13,3 +13,4 @@ links:
 **Suggested Readings:**
 - Chapter 9.10, Chapter 10.3
 - [[chapter 10 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1004A/static_files/presentations/Chap10_Summary.pdf)
+- [[Recorded video]](https://www.youtube.com/watch?v=qqDY8RIkxus)
