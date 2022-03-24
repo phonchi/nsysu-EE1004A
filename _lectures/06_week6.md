@@ -13,4 +13,5 @@ links:
 **Suggested Readings:**
 - Chapter 11.6~11.7
 - [[chapter 11 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1004A/static_files/presentations/Chap11_Summary.pdf)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86rDFL3PTBjWP0YGrOMlA9b)
 
