@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-04-07
-title: Vector-Valued Functions
+title: Quiz 1
 
 tldr: 
 thumbnail: 
