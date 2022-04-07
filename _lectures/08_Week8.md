@@ -12,5 +12,6 @@ links:
       
 ---
 **Suggested Readings:**
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84hx9R-YmGXwIPcpzFSiTII)
 
 
