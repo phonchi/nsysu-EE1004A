@@ -3,6 +3,7 @@ type: assignment
 date: 2022-03-31T17:00:00+3:30
 title: 'Assignment #7'
 attachment: /static_files/assignments/Assignment_7.pdf
+solutions: /static_files/assignments/Assignment_7_ans.pdf
 <!---solutions: /static_files/assignments/HW1_sol.zip--->
 due_event: 
     type: due
