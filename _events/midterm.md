@@ -1,7 +1,7 @@
 ---
 type: exam
 date: 2022-04-14
-description: 'Midterm'
+description: 'Midterm Exam'
 hide_from_announcments: true
 ---
 <!--- 
