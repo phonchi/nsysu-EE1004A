@@ -1,17 +1,18 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+date: 2022-02-17
+title: Infinite Series
+tldr: 
+thumbnail: 
+hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
-      name: slides
+    - url: /static_files/presentations/01_Introduction.pdf
+      name: introduction slides
+    - url: /static_files/presentations/Calculus_Chapter9.pdf
+      name: chapter 9 slides
+      
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- Chapter 9.1~9.3
+- [[chapter 9 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-EE1004A/static_files/presentations/Chap09_Summary.pdf)
+- [[Recorded video]](https://www.youtube.com/watch?v=iuReT8rJHO0)
